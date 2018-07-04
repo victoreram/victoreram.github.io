@@ -1,4 +1,6 @@
-name: Victor Ramirez, Data Scientist
+name: Victor Ramirez
+description: Data Scientist at Civis Analytics
+avatar: https://raw.githubusercontent.com/victoreram/victoreram.github.io/master/images/LinkedInHeadshot.jpg
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
