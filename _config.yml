@@ -1,3 +1,5 @@
 name: Victor Ramirez, Data Scientist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-sitemap
