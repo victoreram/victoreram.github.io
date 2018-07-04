@@ -1,5 +1,3 @@
-# Discovering Descriptive Music Genres Using K-Means Clustering
-
 ![](https://cdn-images-1.medium.com/max/720/1*Lxw5ngfLacxz5YQ1ar-IBA.png)
 
 I was mulling over what to watch on Netflix one night when it recommended me
