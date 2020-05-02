@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<!-- link to main stylesheet -->
+    
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+<header class="header">
+  <div class="container">
+    
+
+    
+  <nav class="nav">
+  <ul class="list list--nav">
+    
+      
+    
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/about/">About</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/about/">About</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/">Victor Ramirez</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/cv/">Victor Ramirez, Data Scientist</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/about/">About me</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/blog/">Various Writings</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/myblog/"></a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/"></a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav  item--current">
+
+          
+
+          
+            <a href="/images/"></a>
+          
+        </li>
+      
+    
+      
+    
+  </ul>
+</nav>
+
+
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+
+<main class="main  container">
+
+  <article class="article  article--page  content  typeset">
+
+    <h1></h1>
+
+    <p>Host the images</p>
+
+
+  </article>
+
+  
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">&copy; Victor Ramirez 2020</small>
+    </div>
+
+    
+  <nav class="nav">
+  <ul class="list list--nav">
+    
+      
+    
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/about/">About</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/about/">About</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/">Victor Ramirez</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/cv/">Victor Ramirez, Data Scientist</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/about/">About me</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/blog/">Various Writings</a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/myblog/"></a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav">
+
+          
+
+          
+            <a href="/"></a>
+          
+        </li>
+      
+    
+      
+        <li class="item  item--nav  item--current">
+
+          
+
+          
+            <a href="/images/"></a>
+          
+        </li>
+      
+    
+      
+    
+  </ul>
+</nav>
+
+
+
+  </div>
+</footer>
+
+
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:victor.em.ramirez@gmail.com">email</a></li>
+        		<li><a href="https://github.com/victoreram">github.com/victoreram</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
