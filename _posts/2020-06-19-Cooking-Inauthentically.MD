@@ -11,7 +11,7 @@ Lately, I’ve felt the strongest desire for culinary exploration that I can rem
 
 Italian food, from the rich and meaty sauces from the north, to the light and bright dishes from the south, and the infinite number of pasta shapes in between, offers so many templates to play with. Despite how ingrained Italian cuisine is in American culture, it feels very exotic to me as a Filipino-American. Plus, making pasta from scratch, despite being notoriously time-consuming, stereotypically reserved for fine dining restaurants and Italian grandmothers with plenty of time on their hands, sounds like a fun challenge. There’s plenty of room to explore and learn from Italian cuisine.
 
-Italian cuisine also requires a delicate touch. It values simplicity over bold flavors and insists you follow the stringent nomenclature across regional dishes. I’m open to giving it that respect and to unlearn some ideas in order to develop new ones. But, I refuse to aim for the most loaded and confining goals in cooking: authenticity. More on this idea later.
+Italian cuisine also requires a delicate touch. It values simplicity over bold flavors and insists you follow the stringent nomenclature across regional dishes. I’m open to giving it that respect and to unlearn some ideas in order to develop new ones. But, I refuse to aim for the most loaded and confining goals in cooking: *authenticity*. More on this idea later.
 
 ## Journeying to Italy in my Chicago apartment 
 
