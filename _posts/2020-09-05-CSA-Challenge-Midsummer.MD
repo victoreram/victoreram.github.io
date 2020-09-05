@@ -17,7 +17,8 @@ Below is an example from a box I received in mid-August to celebrate the middle 
 
 ## Unveiling the Ingredients
 
-{% include figure.html image="/images/csa-august.png" position="left" width="75%" height="75%" caption=""%}
+{% include figure.html image="/images/csa-august.png" position="left" width="90%" height="90%" caption=""%}
+
 
 A few days before picking up my CSA box, I get an email that reveals its contents. Opening this email is more exciting than opening the physical box itself. The latter feels like a formality. The former, however, jumpstarts my imagination. For meal-planning dorks such as myself, this is like Christmas morning every 2 weeks.
 
