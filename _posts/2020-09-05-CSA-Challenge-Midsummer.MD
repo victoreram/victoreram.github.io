@@ -35,6 +35,8 @@ For this batch, I first lightly roasted all of the corn. I used half of it as a 
 
 A quintessential mark of a good summer dish is how well it extracts the natural flavor of the produce. Here I tried to do just that by exposing corn’s sweetness in different shapes, letting the tomatoes and arugula speak for themselves, and adding tanginess from acids to balance everything out. Altogether, it was a tasty meal, perfect for savoring on a patio on a warm summer evening.
 
+{% include figure.html image="/images/csa-august-dish-1.jpg" position="center" width="50%" height="50%" caption=""%}
+
 \*Maybe they were a touch too blanched. In my defense, these arugula were peppery beasts that had to be tamed.
 
 ## Dish 2: Kale salad with red kidney beans and pickled red onions
