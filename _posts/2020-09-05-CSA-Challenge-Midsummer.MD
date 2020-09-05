@@ -5,7 +5,7 @@ categories:
 - Cooking
 ---
 
-*A CSA, which stands for Community Supported Agriculture, is a service that delivers produce from a farm directly to the consumer. I subscribe to Angelic Organics, a farm from Caledonia, Illinois. Each CSA delivery is unique in its own way, and with that comes new culinary challenges. This is part of a series in which I plan my meals using the ingredients provided by my CSA subscription. *
+*A CSA, which stands for Community Supported Agriculture, is a service that delivers produce from a farm directly to the consumer. I subscribe to Angelic Organics, a farm from Caledonia, Illinois\* (they're not paying me to plug them, but they're great!). Each CSA delivery is unique in its own way, and with that comes new culinary challenges. This is part of a series in which I plan my meals using the ingredients provided by my CSA subscription.*
 
 Even as a seasoned home cook, coming up with new dishes intimidates me. I'm not the only one: Grocery stores, with their aisles populated with seemingly infinite options for ingredients, have empowered us with the tools to make just about any dish from around the world. Paradoxically, the wealth of options leads to decision fatigue. Often it discourages me from cooking in the first place. To stave off decision fatigue, I decided to substitute grocery store visits with a CSA subscription. This decision has injected unexpected joy and spontaneity into my life 
 
