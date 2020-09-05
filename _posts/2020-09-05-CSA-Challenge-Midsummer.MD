@@ -7,6 +7,8 @@ categories:
 
 *A CSA, which stands for Community Supported Agriculture, is a service that delivers produce from a farm directly to the consumer. I subscribe to Angelic Organics, a farm from Caledonia, Illinois\* (they're not paying me to plug them, but they're great!). Each CSA delivery is unique in its own way, and with that comes new culinary challenges. This is part of a series in which I plan my meals using the ingredients provided by my CSA subscription.*
 
+\*they’re not paying me to plug them, but I can vouch for them so far!
+
 Even as a seasoned home cook, coming up with new dishes intimidates me. I'm not the only one: Grocery stores, with their aisles populated with seemingly infinite options for ingredients, have empowered us with the tools to make just about any dish from around the world. Paradoxically, the wealth of options leads to decision fatigue. Often it discourages me from cooking in the first place. To stave off decision fatigue, I decided to substitute grocery store visits with a CSA subscription. This decision has injected unexpected joy and spontaneity into my life 
 
 Every two weeks, I receive a box of fruits and vegetables from my CSA. Each box is different, representing the time and place in which produce is made under. To make things interesting, I’ve gamified this event from a mere acquisition of ingredients into a fun biweekly ritual. I try to make dishes that embody the season by incorporating as many of these ingredients as possible---along with pantry staples---and minimizing outside ingredients. Think of it as a Chopped-style challenge but with your pantry and seasonal produce. 
@@ -14,6 +16,8 @@ Every two weeks, I receive a box of fruits and vegetables from my CSA. Each box 
 Below is an example from a box I received in mid-August to celebrate the middle of the summer.
 
 ## Unveiling the Ingredients
+
+{% include figure.html image="/images/csa-august.png" position="center" width="50%" height="50%" caption=""%}
 
 A few days before picking up my CSA box, I get an email that reveals its contents. Opening this email is more exciting than opening the physical box itself. The latter feels like a formality. The former, however, jumpstarts my imagination. For meal-planning dorks such as myself, this is like Christmas morning every 2 weeks.
 
