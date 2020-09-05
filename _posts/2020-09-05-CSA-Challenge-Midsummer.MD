@@ -1,5 +1,5 @@
 ---
-title: CSA Challenge: A Midsummer Cornucopia
+title: CSA Challenge - A Midsummer Cornucopia
 layout: blog
 categories:
 - Cooking
