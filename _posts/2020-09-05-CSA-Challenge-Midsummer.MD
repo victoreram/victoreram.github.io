@@ -5,7 +5,7 @@ categories:
 - Cooking
 ---
 
-*A CSA, which stands for Community Supported Agriculture, is a service that delivers produce from a farm directly to the consumer. I subscribe to Angelic Organics*, a wonderful farm from Caledonia, Illinois. Each CSA delivery is unique in its own way, and with that comes new culinary challenges. This is part of a series in which I plan my meals using the ingredients provided by my CSA subscription. *
+*A CSA, which stands for Community Supported Agriculture, is a service that delivers produce from a farm directly to the consumer. I subscribe to Angelic Organics\*, a wonderful farm from Caledonia, Illinois. Each CSA delivery is unique in its own way, and with that comes new culinary challenges. This is part of a series in which I plan my meals using the ingredients provided by my CSA subscription. *
 
 \*They’re not paying me to write this.
 
