@@ -11,7 +11,7 @@ categories:
 
 Even as a seasoned home cook, coming up with new dishes intimidates me. I'm not the only one: Grocery stores, with their aisles populated with seemingly infinite options for ingredients, have empowered us with the tools to make just about any dish from around the world. Paradoxically, the wealth of options leads to decision fatigue. Often it discourages me from cooking in the first place. To stave off decision fatigue, I decided to substitute grocery store visits with a CSA subscription. This decision has injected unexpected joy and spontaneity into my life 
 
-Every 2 weeks, I receive a box of fruits and vegetables from my CSA. Each box is different, representing the time and place in which produce is made under. To make things interesting, I’ve gamified this event from a mere acquisition of ingredients into a fun biweekly ritual. I try to make dishes that embody the season by incorporating as many of these ingredients as possible---along with pantry staples---and minimizing outside ingredients. Think of it as a Chopped-style challenge but with your pantry and seasonal produce. 
+Every two weeks, I receive a box of fruits and vegetables from my CSA. Each box is different, representing the time and place in which produce is made under. To make things interesting, I’ve gamified this event from a mere acquisition of ingredients into a fun biweekly ritual. I try to make dishes that embody the season by incorporating as many of these ingredients as possible---along with pantry staples---and minimizing outside ingredients. Think of it as a Chopped-style challenge but with your pantry and seasonal produce. 
 
 Below is an example from a box I received in mid-August to celebrate the middle of the summer.
 
