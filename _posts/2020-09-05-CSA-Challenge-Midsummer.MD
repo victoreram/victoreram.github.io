@@ -26,7 +26,7 @@ For this box, you’ll notice a couple of the usual mid-summer suspects: tomatoe
 
 The plotting begins.
 
-## Dish 1: Roasted salmon with a summer produce salad and pureed corn sauce.
+### Dish 1: Roasted salmon with a summer produce salad and pureed corn sauce.
 
 The first meal I make with my CSA tends to be centered around the produce that is best used right away. Here, the obvious candidates are corn, tomatoes and arugula. 
 
@@ -40,7 +40,7 @@ A quintessential mark of a good summer dish is how well it extracts the natural 
 
 \*Maybe they were a touch too blanched. In my defense, these arugula were peppery beasts that had to be tamed.
 
-## Dish 2: Kale salad with red kidney beans and pickled red onions
+### Dish 2: Kale salad with red kidney beans and pickled red onions
 
 Now that the pressure is off to use up my perishables, I can focus on simpler dishes for the back half of the week. Thankfully, my CSA supplements me with more durable produce such as kale. 
 
@@ -48,7 +48,7 @@ Kale’s versatility makes it a vital staple in my produce pantry. You can eat i
 
 For continuity, I like to decide which legume to make based on what would make sense to pair with the next dish. Ultimately that ended up being red kidney beans, but any dried legume can work here. Just throw a bunch in a pot, add some water and spices, then leave it alone for a few hours. 
 
-## Dish 3: Red kidney bean rice with salsa and sardines.
+### Dish 3: Red kidney bean rice with salsa and sardines.
 
 I’ve eaten an unnerving amount of salad by this point and my body is itching for carbs. At this stage of the game, I use more of my pantry to help clean up the final stragglers from my CSA box. All that remained from my CSA box are a couple of tomatoes, red onions, and parsley. I have those leftover beans from Dish 2, some jalapenos from my garden, canned goods, and basically an infinite (which roughly converts to a 20lb bag) supply of rice. This is more than enough to work with.
 
@@ -56,9 +56,9 @@ First, I roasted a portion of leftover tomatoes, red onions and blended them tog
 
 Rice and beans is an international staple and guaranteed to be flavorful with minimal ingredients. Meanwhile, sardines with tomatoes is a universally beloved combination, seen anywhere from Sicilian pastas to served with rice in the Philippines. Combined, this unassuming ‘poverty-meal’ is actually a luxurious and flavorful celebration of using whatever-you-have, wherever-you-are. 
 
-## The Aftermath
+## Finding Joy in Pandemic Cooking
 
-Although Covid has taken away traditional ways of having fun, that doesn’t mean you can’t have fun in other ways.  Going to the grocery store used to be one of my simple pleasures. Much of that pleasure has been stripped away amid a pandemic. No longer can I wander the aisles aimlessly each week and make just about anything that I want.
+Although Covid has taken away traditional ways of having fun, that doesn’t mean you can’t have fun in other ways. Going to the grocery store used to be one of my simple pleasures. Much of that pleasure has been stripped away amid a pandemic. No longer can I wander the aisles aimlessly each week and make just about anything that I want.
 
 But without needing to find alternatives to the grocery store, I wouldn’t have come up with these CSA challenges and discovered the pleasures that have come with it. For me, these CSA challenges have filled a void of both sustenance and joy. But, joy doesn’t have to come in a biweekly box of vegetables. You can turn any mundane transaction into a fun game -- it doesn’t even have to be about cooking!
 
