@@ -17,7 +17,7 @@ Below is an example from a box I received in mid-August to celebrate the middle 
 
 ## Unveiling the Ingredients
 
-{% include figure.html image="/images/csa-august.png" position="center" width="50%" height="50%" caption=""%}
+{% include figure.html image="/images/csa-august.png" position="left" width="75%" height="75%" caption=""%}
 
 A few days before picking up my CSA box, I get an email that reveals its contents. Opening this email is more exciting than opening the physical box itself. The latter feels like a formality. The former, however, jumpstarts my imagination. For meal-planning dorks such as myself, this is like Christmas morning every 2 weeks.
 
@@ -35,7 +35,7 @@ For this batch, I first lightly roasted all of the corn. I used half of it as a 
 
 A quintessential mark of a good summer dish is how well it extracts the natural flavor of the produce. Here I tried to do just that by exposing corn’s sweetness in different shapes, letting the tomatoes and arugula speak for themselves, and adding tanginess from acids to balance everything out. Altogether, it was a tasty meal, perfect for savoring on a patio on a warm summer evening.
 
-{% include figure.html image="/images/csa-august-dish-1.jpg" position="center" width="50%" height="50%" caption=""%}
+{% include figure.html image="/images/csa-august-corn.jpg" position="center" width="75%" height="75%" caption=""%}
 
 \*Maybe they were a touch too blanched. In my defense, these arugula were peppery beasts that had to be tamed.
 
