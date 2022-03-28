@@ -8,12 +8,15 @@ layout: page
 
 ### Hey there!
 
-I'm Victor, and I'm a data scientist. 
+I'm Victor.
 
-I currently work as an Applied Data Scientist at [Civis Analytics]("https://www.civisanalytics.com/"). 
-At Civis, I collaborate with a multi-disciplinary team to develop custom apps that empower clients to make business decisions backed by data and scientific rigor. 
-As a data scientist, my roles have ranged from developing ETL infrastructure, to deploying machine learning models -- all while working closely with our clients to cultivate a relationship.
-I've also authored white papers about various topics in healthcare, such as how persuasive messaging can [impove HPV vaccination rates]("https://civisanalytics.wpengine.com/wp-content/uploads/2019/11/HC_HPV_2019_digital.pdf"), tactics that can [improve clinical trial enrollment]("https://www.civisanalytics.com/wp-content/uploads/2019/03/Clinical-Trials-Survey-Writeup-.pdf") and the growing demand for [virtual healthcare]("https://civisanalytics.wpengine.com/wp-content/uploads/2019/11/HC_Telehealth_2019_digital.pdf").
+I'm a data scientist who's passionate about crypto.
+
+I currently work at [Coin Metrics](https://coinmetrics.io/) where I help build our crypto market and blockchain network data.
+
+I used to work as an Applied Data Scientist at [Civis Analytics]("https://www.civisanalytics.com/"). 
+At Civis, I collaborated with a multi-disciplinary team to develop custom apps that empower clients to make business decisions backed by data and scientific rigor. 
+As a data scientist, my roles have ranged from developing ETL infrastructure, to deploying machine learning models -- all while working closely with our clients.
 
 I graduated from Michigan State University in 2017 with a BS in Physics and a minor in Computational Mathematics, Science, and Engineering.
 A once aspiring physicist, I was heavily involved in research, with stints at a condensed matter physics lab at MSU, a quantum computing lab at the University of Washington, then nuclear physics at the National Superconducting Cyclotron Laboratory at MSU.
