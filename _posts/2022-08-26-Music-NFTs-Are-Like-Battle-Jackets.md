@@ -6,8 +6,6 @@ categories:
 - Crypto
 ---
 
-# Music NFTs Are Like Battle Jackets
-
 *All photographs are taken by Peter Beste at peterbeste.com*
 
 ![peterbeste.com](https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1549557307602-AZXZ8Y2MM0RQFOOQV6DT/KOLN-VESTS_029-1_x3.jpg?format=1000w)
