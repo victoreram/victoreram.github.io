@@ -1,7 +1,6 @@
 ﻿# Music NFTs Are Like Battle Jackets
 
 *All photographs are taken by Peter Beste at peterbeste.com*
-    
 
 ![peterbeste.com](https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1549557307602-AZXZ8Y2MM0RQFOOQV6DT/KOLN-VESTS_029-1_x3.jpg?format=1000w)
 
@@ -31,17 +30,25 @@ For the long answer, read on.
 
 ### Let's Get Phygital
 
+![peterbeste.com](https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1436849234254-4EVLZ770F9K8EKUQFQP2/LA-DAY-ONE+%28470%29.jpg?format=1000w)
+
 Despite the digitizing of everything these days, music is an artform that will always be tethered to the physical world.  [According to the RIAA](https://www.riaa.com/wp-content/uploads/2022/03/2021-Year-End-Music-Industry-Revenue-Report.pdf), streaming platforms brought in $12 billion in 2021. Physical music sales reached $1.6 billion, $1 billion of which came from vinyl, the highest since 1986. On the other hand accounted for about $500 million and have declined by almost 40% since 2019. This doesn't take into account 2021 revenue from merchandise ([~$100 million](https://licensinginternational.org/news/music-tour-merch-sales-begin-to-bounce-back/)), concerts, [($5 billion, down from a $10 billion in 2019)](https://www.statista.com/statistics/193710/concert-revenue-of-live-nation-entertainment-since-2008/) and secondary sales from fans giving each other stuff (impossible to quantify). 
 
-Vinyl and streaming platforms is an apples to an all-you-can-eat buffet comparison. The comparison between vinyl and digital does signal a return back to the analog. Digital music allowed for streaming platforms to dominate because it's easier to build on top of digital than analog rails. After all, how much more can you innovate on top of a CD? At the same time, physical objects that bring music to life will always have value. That's why I think combining the 'realness' of the physical world while using the tools of the digital world is the next logical step. 
+Vinyl and streaming platforms is an apples to an all-you-can-eat buffet comparison. Digital music allowed for streaming platforms to dominate because it's easier to build on top of digital than analog rails. How much more can you innovate on top of a CD? Yet at its current state, digital-only music consumption tends to be shallow. This is somewhat intentional, as it's allowed music to be conveniently deployed and consumed by the end user. After all, you wouldn't bring your vinyl player to the gym to blast your workout playlist. Although digital media dominates shallow music consumption, there will always be that lingering demand for that deep, holistic music experience. 
 
-[Physically redeemable NFTs](https://medium.com/@nic__carter/redeem-and-retain-nfts-are-the-future-of-luxury-goods-760f00dbce23) are an emerging concept that attempts to bridge the digital and physical realm. An artist may issue NFTs that can be a claim on a physical object, such as an exclusive tour shirt, giving the collector the digital right to redeem that object. Collectors may either transfer that right until that physical object is claimed, or actually claim the object and combine a digital twin to pair with their collection. For the artist, this has the added benefits of leveraging the efficiency of markets using an auction model, giving artists unprecedented visibility on who their most lucrative fans are, and making inventory management more efficient. They could also experiment with getting royalties off of [secondary sales](https://www.waterandmusic.com/after-the-drop-secondary-nft-sales-analysis/) where, they'd otherwise get nothing in the current world.
+As a result of the utilitarian way of consuming music, album covers have become a lost art, taking up half of your phone screen mere pixels away from being able to tap to the 'next song'. There's nothing like listening to a record while marveling at the album art, reading the notes, and watching the disc spin. It deepens the connection to the music. The digital realm has enabled artists to play with the visual and the audio dimensions of the music experience that existing platforms otherwise could not provide. Instead of looking at a static physical jpeg while listening to a record, the digital visual art can be interactive. It can be animated, or even react towards a listener's actions. Digital visual art can enhance the story behind the album and bring it new life. And with the NFT ecosystem, artists are better incentivized to experiment with this unexplored frontier.
+
+Simultaneously, physical objects that bring music to the meatspace will always have value. Combining the 'realness' of the physical world while using the tools of the digital world is the next logical step. 
+
+[Physically redeemable NFTs](https://medium.com/@nic__carter/redeem-and-retain-nfts-are-the-future-of-luxury-goods-760f00dbce23) are an emerging concept that attempts to bridge the digital and physical realm. An artist may issue NFTs that can be a claim on a physical object, such as an exclusive tour shirt, giving the collector the digital right to redeem that object. Collectors may either transfer that right until that physical object is claimed, or actually claim the object and combine a digital twin to pair with their collection. For the artist, this has the added benefits of leveraging the efficiency of markets using an auction model, giving artists unprecedented visibility on who their most lucrative fans are. 
+
+Artists could also experiment with royalty models off of [secondary sales](https://www.waterandmusic.com/after-the-drop-secondary-nft-sales-analysis/) where, they'd otherwise get nothing. [Tape trading](https://www.deathmetal.org/article/tape-trading-the-secret-of-the-underground/) was a popular way of proliferating music within the scene. Although artists indirectly benefited from expanding their audience, they didn't get a cut.
 
 Overall this enhances the analog and digital experience, creating a new class of _stuff_ that unlocks new ways to enjoy art that we've barely scratched the surface on. Expect to hear the word "phygital" a lot in the coming months.
 
-Purists will lament this so-called financialization of music. Artists in particular tend to be squeamish when talking about money. "Sell-out" is often used to denigrate bands who end up being too good at making money. Surely enough I think the mob of NFT hating ludditry will only grow louder as new methods of commerce are adopted by artists. Yet, we already engage in commerce for music in the form of buying music, merch, and experiences. Why is financialization suddenly taboo? It's the same thing. If artists create something that fans want to buy, they are giving the people want they want.
+Purists will lament this so-called financialization of music. Artists in particular tend to be squeamish when talking about money. "Sell-out" is often used to denigrate bands who end up being too good at making money. Surely enough the mob of NFT hating ludditry will only grow louder as new methods of commerce are adopted by artists. Yet, we already engage in commerce for music in the form of buying music, merch, and experiences. Why is financialization suddenly taboo? It's the same thing. If artists create something that fans want to buy, they are giving the people want they want.
 
-Personally, digital-only music experiences tend to be shallow and not compelling. I'm not the only one who needs the physical experience of music. Although digital streaming platforms have streamlined music consumption, the physical experiences of music will continue to live on. Speaking of platforms...
+Digital streaming platforms may have streamlined music consumption, but the physical experience of music will continue to live on. Speaking of platforms...
 
 ### Music, Money, and Riding the Gravy Train
 
@@ -68,13 +75,16 @@ Regardless, given the utility they provide to fans, streaming platforms are the 
 
 ### Battle Jackets and the Metaverse 
 
+![peterbeste.com](https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1436812828182-PTLY1B6Y8MJWTW9Z4PMO/MDF2015-DAYONE_064-Edit+copy.jpg?format=1000w)
+
 Thus far I've mostly talked about the plumbing of the music industry. Whether you buy the increased efficiency offered by Web3 or not, the central question that needs to be asked is: "Does anyone want this?" You don't need a blockchain to sell digital stuff or verify that someone is a poser.
 
 This is a difficult question to answer. The only way is to try these ideas out and let it succeed or fail. If we are going to make our best effort however, let's think big. Allow me to make the case.
 
-Imagine if there was a unified record of all of your beloved music experiences and your most prized collectibles from your favorite bands that you can own. Imagine if you can wear those experiences on your vest in a realm for the world to see and find your people. These are all things that music fans already do in the real world. All I'm saying is that technology can be harnessed to satisfy those innate cravings in a deeper, more satisfying ways.
 
-Personally, it would be great to find someone who’s also listened to Voivod for hundreds of hours or was at Berserker Fest 2016. Alas, no such solution exists yet. I think Web3 can get us there.
+Imagine if there was a unified record of all of your beloved music experiences and your most prized collectibles from your favorite bands that you can own. Imagine if you can wear those experiences on your vest in a realm for the world to see and find your people. These are all things that music fans already do in the real world. Technology can be harnessed to satisfy those innate cravings in a deeper, more satisfying ways.
+
+It would be great to find someone who’s also listened to Voivod for hundreds of hours _and_ was at Psycho Las Vegas 2022 (if you are also this person, let's talk). Alas, no such solution exists yet. That data is stored separately on Spotify's and some ticketing platform's database somewhere. An interconnected social network where individuals can carry their data anywhere, regardless of platform, can get us there. 
 
 #### Skeletons in the Closet
 
@@ -105,8 +115,9 @@ Music NFTs can open up opportunities for collectors and creators alike. The prom
 
 There are still [shortcomings](https://mobile.twitter.com/audiochroma/status/1554179663919849472?s=20&t=vTcMqkhPzo380LGD-PBFbQ) that exist in the current music NFT scene. The music industry or the culture of music may resist the adoption of this technology. I think the confluence of tech and culture in Web3 will keep growing in momentum in the coming years that it will be too loud to ignore.
 
-Music has evolved in unpredictable ways in the last few decades. Who could have predicted that broadcasting the devil's tritone on an inconspicuous blues record would spawn countless subgenres, a global subculture, and a billion dollar industry? There is a growing ecosystem of creators that are on the frontier of a new cultural breakthrough. If they succeed,  then I hope every music fan can have fun stitching our own battle jackets.
+Music has evolved in unpredictable ways in the last few decades. Who could have predicted that broadcasting the devil's tritone on an inconspicuous blues record would spawn countless subgenres, a global subculture, and a billion dollar industry? There is a growing ecosystem of creators that are on the frontier of a new technical and cultural breakthrough. If they succeed, then every music fan will be stitching their own digital battle jackets.
 
 ![](https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1436813108117-2G60WGIOEHRIFHGRFZJP/fenriz_walkaway-crop.jpg?format=1000w)
 
+*Special thanks to [Noxis](https://twitter.com/Aegiuscreator) for his thoughtful feedback.*
 **
