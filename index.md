@@ -4,7 +4,7 @@ feature_image: "https://victoreram.github.io/images/wallowas-trail-head.jpg"
 layout: page
 ---
 
-{% include figure.html image="/images/LinkedInHeadshot2.jpg" position="left" width="270" height="720" %}
+{% include figure.html image="/images/me-voivod.jpg" position="left" width="270" height="720" %}
 
 ### Hey there!
 

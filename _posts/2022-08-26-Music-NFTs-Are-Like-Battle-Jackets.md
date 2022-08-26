@@ -1,4 +1,12 @@
-﻿# Music NFTs Are Like Battle Jackets
+﻿---
+title: Music NFTs Are Like Battle Jackets
+layout: blog
+categories:
+- Metal
+- Crypto
+---
+
+# Music NFTs Are Like Battle Jackets
 
 *All photographs are taken by Peter Beste at peterbeste.com*
 
