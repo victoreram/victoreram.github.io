@@ -15,6 +15,11 @@
       {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
       <title>{{ collectiondata.title }} - {{ site.title }}</title>
       <meta property="og:title" content="{{ collectiondata.title }}">
+	  {% if page.image %}
+	    <meta property="og:image" content="images/wallowas-needlish-point.jpg">
+	  {% else %}
+		 <meta property="og:image" content="images/wallowas-needlish-point.jpg">
+	  {% endif %}
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">
     {% else %}
