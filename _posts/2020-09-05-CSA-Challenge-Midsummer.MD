@@ -2,6 +2,7 @@
 title: CSA Challenge - A Midsummer Cornucopia
 layout: blog
 image: images/csa-august.png
+thumbnail: images/csa-august.png
 categories:
 - Cooking
 ---
