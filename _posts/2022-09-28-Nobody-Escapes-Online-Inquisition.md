@@ -1,6 +1,7 @@
 ---
 title: Nobody Escapes The Online Inquisition
 layout: blog
+image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png"
 feature_image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png"
 categories:
 - Metal
