@@ -252,10 +252,10 @@ representation
 someone who is latinx and is working in artificial intelligence?**
 
 Add to our directory:
-[http://bit.ly/LatinXinAI-Directory-Form](http://bit.ly/LatinXinAI-Directory-Form)
+[https://bit.ly/LatinXinAI-Directory-Form](https://bit.ly/LatinXinAI-Directory-Form)
 
 **Check out our open source website:**
-[http://www.latinxinai.org/](http://www.latinxinai.org/)
+[https://www.latinxinai.org/](https://www.latinxinai.org/)
 
 #### If you enjoyed reading this, you can contribute good vibes (and help more people
 discover this post and our community) by hitting the 👏 below — it means a lot!
