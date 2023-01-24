@@ -15,12 +15,12 @@ I'm a data practitioner with an intense curiosity for crypto. I believe public b
 
 **web3 me**:
 
-I'm a data scientist at [Coin Metrics](https://coinmetrics.io/), where:
-- I'm a proud contributor of our [Python API client](https://github.com/coinmetrics/api-client-python), a tool for python users to access Coin Metrics data via the API.
+I'm a data scientist at [Coin Metrics](https://coinmetrics.io/). My proudest contributions include:
+- helping develop our [Python API client](https://github.com/coinmetrics/api-client-python), a tool for python users to access Coin Metrics data via the API.
 - I helped create [datonomy](https://coinmetrics.io/datonomy/), a taxonomy for digital assets.
 
 
-**web2 me**:
+**web2 me**
 
 I graduated from Michigan State University with a BS in Physics and a minor in Computational Mathematics, Science, and Engineering.
 A once aspiring physicist, I was heavily involved in research, with stints at a condensed matter physics lab at MSU, a quantum computing lab at the University of Washington, then nuclear physics at the National Superconducting Cyclotron Laboratory at MSU.

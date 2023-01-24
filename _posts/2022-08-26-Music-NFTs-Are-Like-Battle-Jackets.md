@@ -5,7 +5,7 @@ image: "https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1
 feature_image: "https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1549557307602-AZXZ8Y2MM0RQFOOQV6DT/KOLN-VESTS_029-1_x3.jpg?format=1000w"
 thumbnail: "https://images.squarespace-cdn.com/content/v1/53cd477de4b0fa81a6994019/1549557307602-AZXZ8Y2MM0RQFOOQV6DT/KOLN-VESTS_029-1_x3.jpg?format=1000w"
 categories:
-- Metal
+- Music
 - Crypto
 ---
 

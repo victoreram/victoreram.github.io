@@ -5,7 +5,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galileo_before_the_H
 feature_image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Galileo_before_the_Holy_Office_-_Joseph-Nicolas_Robert-Fleury%2C_1847.png"
 categories:
-- Metal
+- Music
 ---
 *Thoughts are my own and do not represent that of Vektor.*
 
