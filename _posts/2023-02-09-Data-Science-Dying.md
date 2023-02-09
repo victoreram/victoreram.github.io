@@ -9,7 +9,7 @@ categories:
 ---
 _February 2023_
 
-I often get told by aspiring data scientists: "I want to be a data scientist. What's the best way to do it?" I fight the urge to shake them, and beg, for the future of their careers, to not do it. 
+I often get told by aspiring data scientists: "I want to be a data scientist. What's the best way to do it?". On one hand, data science is the perfect field to go for the naturally curious and analytically rigorous, plus the compensation ain't bad. On the other I fight the urge to shake them, and beg, for the future of their careers, to not do it. 
 ![https://memes.memedrop.io/production/Dk61329X8ymR/source.gif](https://memes.memedrop.io/production/Dk61329X8ymR/source.gif)
 
 I wish I could be helpful, truly, but my experience breaking into the field five years ago does not apply now. Data science has become commoditized, saturated, and highly competitive especially for entry-level talent. Look at all of the generic data science courses, guaranteeing jobs if you write a stack-overflow rehash on Medium (which I was guilty of). Compare that to what companies actually want -- several years of experience, data engineering, and an unnatural passion for driving revenue.
@@ -18,7 +18,7 @@ And in the midst of a white collar recession, it seems like the immediate career
 
 This post isn't meant to gatekeep aspiring data scientist away from my precious profession. If anything, I want there to be more analytically savvy data practitioners. Join us! We need data fluency to propagate across the workforce, for analytics to be valued and be valuable.
 
-Just be _very_ careful on what prescription to follow, including and *especially* this one. The data science job market, skills in demand, and tech stack have shifted rapidly in the past few years. Let's first take a step back and reflect on how we got here.
+Just be _very_ careful on what prescription to follow, including and *especially* this one. The data science job market, skills in demand, and tech stack have shifted rapidly recently and will continue to as companies look to tighten the belt in the near future. Before we look into the future, let's look at how we got here.
 
 ### The Big Oil and Big Data Boom
 
@@ -26,7 +26,7 @@ Just be _very_ careful on what prescription to follow, including and *especially
 
 It's the 2010's. Data was the new oil. Every company raced to acquire Big Data [tm]. Fortune awaited for those who harness it. HBR infamously called the data scientist the [sexiest job of the 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) and doubled down on its prestige a [decade later](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century) (with caveats).
 
-And it was a great field to get into when I broke into it. Data scientist has quite a weight to its title, at least in tech. I'd often joke that difference between an analyst and a data scientist is that an analyst tests a hypothesis and uses data to test that hypothesis, while a data scientist does the same thing but gets paid six figures. I even insisted on the title searching on my first job out of college despite not having the credentials. It didn't matter because I was underpaid anyway, but I thought carrying that title would carry forward to my future career path.
+And it was a great field to get into when I broke into it. Data scientist had quite a weight to its title, at least in tech. I'd often joke that difference between an analyst and a data scientist is that an analyst tests a hypothesis and uses data to test that hypothesis, while a data scientist does the same thing but gets paid six figures. I even insisted on the title searching on my first job search out of college. The data science title could theoretically carry forward into future prospects -- it didn't matter if I was functionally an underpaid analyst at the time (I was). 
 
 Nowadays I often question the title. Its meaning, how the market values it, and where its career ladder leads to. And sure enough, there's data to back up some doubts.
 
@@ -49,7 +49,7 @@ I'd also be a terrible data scientist if I didn't tell a compelling spin behind 
 
 Data isn't getting more scarce. On the contrary, it's still exponentially becoming abundant. The need to process, analyze, and harvest into something valuable is more present than ever. And companies, not just in tech, need skilled practitioners to harness that resource.
 
-But much like a maturing startup shifting its workforce from generalists to specialists, data science has become increasingly specialized. This shift in data science identities is articulated well as Type A (analyst) vs. Type B (builder) data scientists [a few years ago](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists). Taking it further, new professions have spawned from the data science tree: data/analytic engineers, machine learning scientists, data-driven product managers, and even data executives to address the increasingly complex data operations of each company. Unicorn data scientists are becoming extinct, mostly working for the smallest and earliest stage companies.
+But much like a maturing startup shifting its workforce from generalists to specialists, data science has become increasingly specialized. This shift in data science identities is articulated well as Type A (analyst) vs. Type B (builder) data scientists [a few years ago](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists). Taking it further, new professions have spawned from the data science tree: data/analytic engineers, machine learning scientists, data-driven product managers, and even data executives to address the increasingly complex data operations of each company. Unicorn data scientists are becoming extinct, mostly working for the smallest and earliest stage companies. They were forged from a bygone time, but they likely won't be churned out by bootcamps.
 
 ![The working model of the data scientist. http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram](https://images.squarespace-cdn.com/content/v1/5150aec6e4b0e340ec52710a/1364352051365-HZAS3CLBF7ABLE3F5OBY/Data_Science_VD.png?format=1000w)
 
