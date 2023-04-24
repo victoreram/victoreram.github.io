@@ -1,15 +1,16 @@
 ---
 title: Lost Machines and Artificial Brains
 layout: blog
-image: images/robot-metal.png
-thumbnail: images/robot-metal.png
+image: "/images/robot-metal.png"
+feature_image: "/images/robot-metal.png"
+thumbnail: "/images/robot-metal.png"
 categories:
 - Metal, AI
 ---
+{% include figure.html image="/images/summoning-mordor.jpg" position="center" width="75%" height="75%" caption=""%}
 
 I've recently been obsessed by the Tolkien-inspired atmospheric black metal band [Summoning](https://www.metal-archives.com/bands/Summoning/29) and [_In Mordor Where The Shadows Are_](https://www.youtube.com/watch?v=S6BI48YOkdg), a 3-hour tribute album of Summoning covers from various artists. Cover albums are usually not much more than fun, albeit limited, fan service, but this one was uniquely enthralling. A tasteful cover strikes a balance between being faithful to its source material while adding a personal touch. Several of the covers on _In Mordor_ strike just that balance, letting the source material inspire but not define the covering band's artistic direction. In a nutshell, this illustrates what a skilled musician can create, but an AI fundamentally cannot.
 
-{% include figure.html image="/images/summoning-mordor.jpg" position="center" width="110%" height="100%" caption=""%}
 
 [An AI generated song by Ghostwriter](https://twitter.com/rpnickson/status/1647548141384736770) a model trained on Drake and The Weeknd is the latest hypebait on the AI music trend, spawning [generative takes](https://twitter.com/Loopifyyy/status/1647656368394973187) on the music industry's inevitable disruption. I don't listen to much normie music, but even my untrained ears sensed it was just a cheap imitation of the real thing. It wasn't a big deal when humans made derivative clones of other artists, and now we're [supposed to lose our minds](https://thehardtimes.net/culture/end-of-the-musician-new-ai-program-can-create-dozens-of-half-finished-guitar-riffs-in-voice-memos-write-lyrics-for-half-a-verse-and-a-chorus/) because a robot did it!
 
@@ -34,3 +35,5 @@ That said, I do think there is a place for AI in the creative process. Just beca
 Generative AI is a celebration of the process over the outcome. It's revolutionizing neural networks more than it ever will punk rock. It's more of a technological achievement than an artistic one -- and that's okay. 
 
 There may come a beautiful moment where an AI writes an absolute banger for the ages. But by that point, we'd all be dead. 
+
+{% include figure.html image="/images/robot-metal.png" position="center" width="75%" height="75%" caption=""%}
